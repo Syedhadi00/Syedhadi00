@@ -19,7 +19,7 @@
     </p>
  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Syedhadi00&label=PROFILE%20VIEWS&color=00D9FF&labelColor=0D1117&style=plastic" alt="Profile   Views" 
-    width="200"/>
+    
  </p>
 
  
