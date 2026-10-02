@@ -17,5 +17,8 @@
      <img src="https://skillicons.dev/icons?i=css" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <img src="https://skillicons.dev/icons?i=js" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </p>
-    <p align ="right">
-    <img src="https://komarev.com/ghpvc/?username=Syedhadi00&label=PROFILE+VIEWS&color=red&style=for-the-badge" alt="Profile Views"/>
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=00D9FF&labelColor=0D1117&style=plastic" alt="Profile Views" />
+ </p>
+
+ 
