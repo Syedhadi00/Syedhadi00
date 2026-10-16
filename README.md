@@ -17,8 +17,22 @@
      <img src="https://skillicons.dev/icons?i=css" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <img src="https://skillicons.dev/icons?i=js" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </p>
+ ## 👨‍💻 About Me
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Coding animation"/>
+
+Hey! I'm **Syed Abdul Hadi** — an ICS student exploring the world of **Cybersecurity & Programming**. 🔐
+
+- 🛡️ Currently learning **Web Application Security** through PortSwigger.
+- 💻 Building projects with **C++, Python & JavaScript**.
+- 🐧 Exploring Kali Linux, networking, and web vulnerabilities.
+- 🎯 Preparing to dive deeper into **CTFs & Ethical Hacking**.
+- 🚀 Learning by building, experimenting, and solving problems.
+
+*“Curiosity drives me. Code empowers me. Security inspires me.”* ⚡
  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Syedhadi00&label=PROFILE%20VIEWS&color=00D9FF&labelColor=0D1117&style=plastic" alt="Profile   Views" 
+  
     
  </p>
 
