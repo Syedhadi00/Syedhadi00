@@ -7,7 +7,7 @@
 </div>
 <hr>
 
-  <P align="left" style="font-size:26px;">
+  <P align="left" style="font-size:36px;">
        <b>Languages : </b> 
     </P>
     <p align=left>
@@ -17,19 +17,29 @@
      <img src="https://skillicons.dev/icons?i=css" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <img src="https://skillicons.dev/icons?i=js" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </p>
- ## 👨‍💻 About Me
+    
+ <h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=320&lines=ABOUT+ME+%E2%9C%A6" alt="About Me animation" />
+</h2>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Coding animation"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001F3F,50:007BFF,100:00D4FF&height=2&section=header" width="75%" />
+</p>
 
-Hey! I'm **Syed Abdul Hadi** — an ICS student exploring the world of **Cybersecurity & Programming**. 🔐
+I'm **Syed Abdul Hadi**, an ICS student passionate about programming and cybersecurity.
 
-- 🛡️ Currently learning **Web Application Security** through PortSwigger.
-- 💻 Building projects with **C++, Python & JavaScript**.
-- 🐧 Exploring Kali Linux, networking, and web vulnerabilities.
-- 🎯 Preparing to dive deeper into **CTFs & Ethical Hacking**.
-- 🚀 Learning by building, experimenting, and solving problems.
+🔹 Currently exploring **Web Application Security** with PortSwigger Web Security Academy.
 
-*“Curiosity drives me. Code empowers me. Security inspires me.”* ⚡
+🔹 Building projects using **C++, Python, and JavaScript**.
+
+🔹 Learning about **SQL Injection, web vulnerabilities, and ethical hacking**.
+
+🔹 Interested in CTF challenges, practical security testing, and continuous learning.
+
+<p align="center">
+  <i>「 Code with purpose. Think beyond limits. Secure the future. 」</i>
+</p>
+
  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Syedhadi00&label=PROFILE%20VIEWS&color=00D9FF&labelColor=0D1117&style=plastic" alt="Profile   Views" 
   
