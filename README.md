@@ -7,8 +7,8 @@
 </div>
 <hr>
 
-  <P align="left" style="font-size:36px;">
-       <b>Languages : </b> 
+  <P align="left" style="font-size:42px;">
+      <b style="color: blue;"> LANGUAGES AND TOOLS : </b> 
     </P>
     <p align=left>
      <img src="https://skillicons.dev/icons?i=cpp"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -39,6 +39,8 @@ I'm **Syed Abdul Hadi**, an ICS student passionate about programming and cyberse
 <p align="center">
   <i>「 Code with purpose. Think beyond limits. Secure the future. 」</i>
 </p>
+
+
 
  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Syedhadi00&label=PROFILE%20VIEWS&color=00D9FF&labelColor=0D1117&style=plastic" alt="Profile   Views" 
