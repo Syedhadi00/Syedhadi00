@@ -28,11 +28,8 @@
 <img src="https://img.shields.io/badge/-GIT-1e1033?style=for-the-badge&logo=git&logoColor=d8b4fe" />
 
 
-
+<br><br>
 <div align="left">
-
-<img src="https://placehold.co/160x46/0d1117/D8B4FE/png?text=About+Me+:&font=montserrat" alt="About Me :" />
-
 <ul>
   <li>🎓 ICS Student exploring the world of technology.</li>
   <li>🛡️ Learning Web Application Security through PortSwigger Web Security Academy.</li>
