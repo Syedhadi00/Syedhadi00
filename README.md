@@ -1,49 +1,63 @@
+
 <div align="center">
-  
-# Hi, I am Syed Abdul Hadi 👋
+
+# Hi👋 I am Abdul Hadi
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=2500&pause=700&color=B57AFF&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+my+GitHub;Syed+Hadi+is+here;Have+a+look+at+my+Projects" alt="Animated welcome messages" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E1065,50:7C3AED,100:C084FC&height=3" width="85%" />
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=%F0%9F%94%A5+Welcome+to+my+GitHub;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Syed+Hadi+is+here;%E2%9C%A8+Have+A+Look+At+My+Projects"/>
+<h3 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1500&color=D8B4FE&vCenter=true&width=300&height=30&lines=Tools+%26+Technologies" alt="Tools & Technologies" />
+
+</h3>
+
+
+
+<br/>
+
+<img src="https://img.shields.io/badge/-NETWORKING-1e1033?style=for-the-badge&logo=cisco&logoColor=d8b4fe" />
+<img src="https://img.shields.io/badge/-LINUX-1e1033?style=for-the-badge&logo=linux&logoColor=d8b4fe" />
+<img src="https://img.shields.io/badge/-HTML-1e1033?style=for-the-badge&logo=html5&logoColor=d8b4fe" />
+<img src="https://img.shields.io/badge/-CSS-1e1033?style=for-the-badge&logo=css3&logoColor=d8b4fe" />
+<br/>
+<img src="https://img.shields.io/badge/-JAVASCRIPT-1e1033?style=for-the-badge&logo=javascript&logoColor=d8b4fe" />
+<img src="https://img.shields.io/badge/-C++-1e1033?style=for-the-badge&logo=cplusplus&logoColor=d8b4fe" />
+<img src="https://img.shields.io/badge/-PYTHON-1e1033?style=for-the-badge&logo=python&logoColor=d8b4fe" />
+<img src="https://img.shields.io/badge/-GIT-1e1033?style=for-the-badge&logo=git&logoColor=d8b4fe" />
+
+
+
+<div align="left">
+
+<img src="https://placehold.co/160x46/0d1117/D8B4FE/png?text=About+Me+:&font=montserrat" alt="About Me :" />
+
+<ul>
+  <li>🎓 ICS Student exploring the world of technology.</li>
+  <li>🛡️ Learning Web Application Security through PortSwigger Web Security Academy.</li>
+  <li>🔍 Practicing SQL Injection and exploring web security vulnerabilities.</li>
+  <li>💻 Working on C++ and Python programming projects.</li>
+  <li>🐧 Familiar with basic Kali Linux commands and computer networking.</li>
+  <li>🚀 Building projects and growing my GitHub portfolio.</li>
+  <li>🎯 My goal is to become a skilled Cybersecurity Professional.</li>
+</ul>
+
 </div>
-<hr>
 
-  <P align="left" style="font-size:42px;">
-      <b style="color: blue;"> LANGUAGES AND TOOLS : </b> 
-    </P>
-    <p align=left>
-     <img src="https://skillicons.dev/icons?i=cpp"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     <img src="https://skillicons.dev/icons?i=python" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     <img src="https://skillicons.dev/icons?i=html" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     <img src="https://skillicons.dev/icons?i=css" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     <img src="https://skillicons.dev/icons?i=js" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </p>
-    
- <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=320&lines=ABOUT+ME+%E2%9C%A6" alt="About Me animation" />
-</h2>
+</div>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001F3F,50:007BFF,100:00D4FF&height=2&section=header" width="75%" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=Syedhadi00&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" alt="Profile views" />
 
-I'm **Syed Abdul Hadi**, an ICS student passionate about programming and cybersecurity.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E1065,50:7C3AED,100:C084FC&height=3" width="85%" />
+<br><br>
 
-🔹 Currently exploring **Web Application Security** with PortSwigger Web Security Academy.
+<sub>**Thanks for visiting my profile! 💜**</sub>
 
-🔹 Building projects using **C++, Python, and JavaScript**.
 
-🔹 Learning about **SQL Injection, web vulnerabilities, and ethical hacking**.
 
-🔹 Interested in CTF challenges, practical security testing, and continuous learning.
+</div>
 
-<p align="center">
-  <i>「 Code with purpose. Think beyond limits. Secure the future. 」</i>
-</p>
-<hr>
- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Syedhadi00&label=PROFILE%20VIEWS&color=00D9FF&labelColor=0D1117&style=plastic" alt="Profile   Views" 
-  
-    
- </p>
 
  
