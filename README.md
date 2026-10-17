@@ -29,6 +29,12 @@
 
 
 <br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-abdul-hadi-0872b5443)
+&nbsp;&nbsp;&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itz,hadi.exe)
+
+
+<br><br>
 <div align="left">
 <ul>
   <li>🎓 ICS Student exploring the world of technology.</li>
