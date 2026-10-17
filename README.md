@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/-NETWORKING-1e1033?style=for-the-badge&logo=cisco&logoColor=d8b4fe" />
 <img src="https://img.shields.io/badge/-LINUX-1e1033?style=for-the-badge&logo=linux&logoColor=d8b4fe" />
 <img src="https://img.shields.io/badge/-HTML-1e1033?style=for-the-badge&logo=html5&logoColor=d8b4fe" />
-<img src="https://img.shields.io/badge/-CSS-1e1033?style=for-the-badge&logo=css3&logoColor=d8b4fe" />
+<img src="https://img.shields.io/badge/-CSS-1e1033?style=for-the-badge&logo=css&logoColor=d8b4fe" />
 <br/>
 <img src="https://img.shields.io/badge/-JAVASCRIPT-1e1033?style=for-the-badge&logo=javascript&logoColor=d8b4fe" />
 <img src="https://img.shields.io/badge/-C++-1e1033?style=for-the-badge&logo=cplusplus&logoColor=d8b4fe" />
