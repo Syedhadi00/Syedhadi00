@@ -48,7 +48,7 @@
 </div>
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Syedhadi00&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" alt="Profile views" />
+<img src="https://hits.sh/github.com/Syedhadi00.svg?style=for-the-badge&label=Profile%20Views&color=a855f7&labelColor=1e1033" alt="Profile Views" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E1065,50:7C3AED,100:C084FC&height=3" width="85%" />
 <br><br>
