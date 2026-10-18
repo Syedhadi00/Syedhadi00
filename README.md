@@ -3,13 +3,13 @@
 
 # Hi👋 I am Abdul Hadi
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=2500&pause=700&color=B57AFF&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+my+GitHub;Syed+Hadi+is+here;Have+a+look+at+my+Projects" alt="Animated welcome messages" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=2500&pause=700&color=B57AFF&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+my+GitHub;Syed+Hadi+is+here;Have+a+look+at+my+Projects" alt="Animated welcome messages" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E1065,50:7C3AED,100:C084FC&height=3" width="85%" />
 
 
 <h3 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1500&color=D8B4FE&vCenter=true&width=300&height=30&lines=Tools+%26+Technologies" alt="Tools & Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1500&color=d90b19&vCenter=true&width=300&height=30&lines=Tools+%26+Technologies:" alt="Tools & Technologies:" />
 
 </h3>
 
