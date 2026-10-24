@@ -9,7 +9,7 @@
 
 
 <h3 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1500&color=d90b19&vCenter=true&width=300&height=30&lines=Tools+%26+Technologies:" alt="Tools & Technologies:" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1000&pause=1500&color=d90b19&vCenter=true&width=300&height=30&lines=Tools+%26+Technologies:" alt="Tools & Technologies:" />
 
 </h3>
 
