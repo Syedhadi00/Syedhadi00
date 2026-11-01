@@ -9,7 +9,7 @@
 
 
 <h3 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1000&pause=1500&color=d90b19&vCenter=true&width=300&height=30&lines=Tools+%26+Technologies:" alt="Tools & Technologies:" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1000&pause=1500&color=b30de0&vCenter=true&width=300&height=30&lines=Tools+%26+Technologies:" alt="Tools & Technologies:" />
 
 </h3>
 
@@ -32,6 +32,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-abdul-hadi-0872b5443)
 &nbsp;&nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-A21CAF?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itz.hadi.exe)
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:syedhadih89@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 
 <br><br>
